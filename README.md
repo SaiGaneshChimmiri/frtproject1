@@ -1,5 +1,5 @@
 
-# ✨  Project name ✨
+# ✨  Green Life ✨
 
 This is a web based application developed for Earth related based website in india
 
