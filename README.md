@@ -10,7 +10,7 @@ This is a web based application developed for Earth related based website in ind
 
 **project demo video link** - https://youtu.be/u0ZbjEAFFjU
 
-project link(github repository) - https://github.com/SaiGaneshChimmiri/frtproject
+project link(github repository) - https://github.com/SaiGaneshChimmiri/frtproject1
 
 ## Azure technologies used for Project
 
