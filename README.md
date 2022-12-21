@@ -6,7 +6,7 @@ This is a web based application developed for Earth related based website in ind
 ### This web based Earth application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://happy-ocean-00efcec00.2.azurestaticapps.net
+**Project Link** - https://lemon-beach-040413d00.2.azurestaticapps.net
 
 **project demo video link** - https://youtu.be/u0ZbjEAFFjU
 
