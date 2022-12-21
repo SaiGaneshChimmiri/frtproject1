@@ -61,7 +61,7 @@ project link(github repository) - https://github.com/SaiGaneshChimmiri/frtprojec
 
 ### Project Dashbord -
 
-![Screenshot (39)](https://user-images.githubusercontent.com/114677937/205969330-24c0fa1b-4723-4d56-ba20-ea6279b1e181.png)
+![Screenshot (50)](https://user-images.githubusercontent.com/114677937/208965981-ba5d00bf-9720-416a-8d61-c476f66e5ac7.png)
 
 ## Tech Stack 💻
 
